@@ -2,7 +2,7 @@
 
 **An Advanced AI Solution for Histopathological Classification in Breast Cancer Diagnosis**
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12%2B-red)](https://pytorch.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status: Active](https://img.shields.io/badge/Status-Active%20Development-green)](#)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12%2B-red)](https://pytorch.org/)[![Status: Active](https://img.shields.io/badge/Status-Active%20Development-green)](#)
 
 > **Why This Matters:** Every year, millions of breast cancer pathology slides are reviewed manually. Atypical mitotic figures—rare but critical markers—are missed in ~15% of cases due to fatigue and inconsistency. This AI system achieves **89.42% accuracy**, matching expert pathologists while operating 100× faster.
 
