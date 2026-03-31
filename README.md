@@ -710,42 +710,12 @@ This project was developed as part of advanced deep learning research in computa
 
 ---
 
-## License
-
-This project is available for academic and research purposes. Please refer to the individual dataset licenses for usage restrictions.
-
----
 
 ## Contact & Support
 
 For questions, issues, or suggestions:
 - Open an issue on [GitHub](https://github.com/ashrita543/AtypicalMitoticFiguresIdentification)
 - Contribute via pull requests with improvements or bug fixes
-
----
-
-## Paper & Citations
-
-**If you use this work, please cite:**
-```bibtex
-@article{AtypicalMitoticFigures2025,
-  title={Deep Learning for Atypical Mitotic Figures Detection: An Advanced AI Solution for Histopathological Classification},
-  author={Ashrita, A. and Lishanthan, U.},
-  year={2025},
-  journal={Computational Histopathology Review},
-  note={arXiv preprint available upon request}
-}
-```
-
-**Dataset Citation:**
-```bibtex
-@dataset{MIDOG2025,
-  title={MIDOG 2025: Mitotic Figure Detection Challenge},
-  author={Aubreville, Marc and others},
-  year={2025},
-  url={https://zenodo.org/records/15188326}
-}
-```
 
 ---
 
